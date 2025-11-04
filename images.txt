@@ -1,7 +1,8 @@
 nginx
 #支持私库
-mariadb:11.4.5
-amd64/openjdk:17.0.2-jdk
+apache/kafka:4.1.1-rc2
+mongo:8.2.1
+redis:8.0-alpine
 
 #支持指定架构
 --platform=linux/amd64
