@@ -1,5 +1,5 @@
-nginx
+golang
 #支持私库
-kibana:7.12.1
+golang:1.26.3
 #支持指定架构
 --platform=linux/amd64
