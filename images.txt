@@ -1,16 +1,5 @@
 #golang
 #支持私库
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.6.3-local
-langgenius/dify-web:1.16.0
-langgenius/dify-agent-backend:1.16.0
-langgenius/dify-api:1.16.0
-langgenius/dify-agent-local-sandbox:1.16.0
-redis:6-alpine
-langgenius/dify-sandbox:0.2.15
-semitechnologies/weaviate:1.27.0
-nginx:latest
-busybox:latest
-postgres:15-alpine
+jellyfin/jellyfin:2026081705
 #支持指定架构
 --platform=linux/amd64
